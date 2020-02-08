@@ -9,3 +9,7 @@ Basic structure for those that want using Dagger 2.11+ in MVVM app with Android 
       <li>Dependency injection with Dagger 2</li>
       <li>MVVM architecture</li>
 </ul>
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations.
