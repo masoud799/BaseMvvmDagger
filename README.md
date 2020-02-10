@@ -1,4 +1,3 @@
-![](https://pasteboard.co/IU0oY87.png)
 Basic structure for those that want using Dagger 2.11+ in MVVM app with Android Architecture Components, RxJava.
 
 
